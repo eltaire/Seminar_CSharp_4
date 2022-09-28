@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/bin/Debug/net6.0/Task04
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/bin/Debug/net6.0/Task04.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/bin/Debug/net6.0/Task04.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/bin/Debug/net6.0/Task04.dll
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/bin/Debug/net6.0/Task04.pdb
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.dll
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/refint/Task04.dll
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.pdb
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/Task04.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_04/Task04/obj/Debug/net6.0/ref/Task04.dll
